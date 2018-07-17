@@ -86,8 +86,9 @@ footer {
 #Title {
     position: relative;
     top: 0%;
-    right: -17%;
+    right: -2%;
     display: block;
+    font-size: 30px;
     width: 260px;
     background-color: #4aaaa5;
     text-align: center;
@@ -142,7 +143,7 @@ footer {
     margin-bottom: 18px;
     border-bottom: 2px solid #cccccc;
     padding-bottom: 23px;
-    font-size: 32px;
+    font-size: 30px;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
@@ -154,30 +155,36 @@ footer {
 .Pictures {
     width: 280px;
     margin-top: 10px;
+    margin-bottom: 30px;
     z-index: 1;
+}
+
+#Hangman {
+    position: relative;
+    left: 19px;
 }
 
 #RPG {
     position: relative;
-    left: 0px;
+    left: 19px;
     bottom: 69px;
 }
 
 #Rutgers {
     position: relative;
-    left: 310px;
-    bottom: 942px;
+    left: 334px;
+    bottom: 926px;
 }
 
 #Rock {
     position: relative;
-    left: 310px;
-    bottom: 1011px;
+    left: 334px;
+    bottom: 994px;
 }
 
 #Trivia {
     position: relative;
-    left: 0px;
+    left: 19px;
     bottom: 136px;
 }
 
@@ -196,31 +203,31 @@ footer {
 #HangmanOverlay {
     position: relative;
     bottom: 114px;
-    left: -1px;
+    left: 19px;
 }
 
 #TriviaOverlay {
     position: relative;
     bottom: 496px;
-    left: -1px;
+    left: 19px;
 }
 
 #RockOverlay {
     position: relative;
     bottom: 876px;
-    left: -1px;
+    left: 19px;
 }
 
 #RPGOverlay {
     position: relative;
-    bottom: 428px;
-    left: 309px;
+    bottom: 423px;
+    left: 334px;
 }
 
 #RutgersOverlay {
     position: relative;
-    bottom: 809px;
-    left: 310px;
+    bottom: 803px;
+    left: 334px;
 }
 
 p.Text {
