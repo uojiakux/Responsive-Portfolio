@@ -61,7 +61,7 @@ footer {
 #Message-Textbox {
     width: 95.5%;
     height: 150px;
-    padding: 15px;
+    padding: 5px;
     box-sizing: content-box;
     color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -245,7 +245,7 @@ button {
 
     .Body {
         margin-bottom: 20px;
-        /* background-color: black; */
+        background-color: black;
     }
 
     .Portfolio_wrapper {
