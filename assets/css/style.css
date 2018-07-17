@@ -269,12 +269,10 @@ button {
 
     .Body {
         margin-bottom: 20px;
-        background-color: black;
     }
 
     .Portfolio_wrapper {
         width: 200x;
-        background-color:black;
     }
 
     .Portfolio_Body {
@@ -329,32 +327,32 @@ header {
 
     #Hangman {
         position: relative;
-        left: 120px;
+        left: 102px;
         margin-bottom: 30px;
     }
 
     #RPG {
         position: relative;
-        left: 120px;
+        left: 102px;
         margin-bottom: 30px;
     }
 
     #Trivia {
         position: relative;
-        left: 120px;
+        left: 102px;
         margin-bottom: 30px;
     }
 
     #Rutgers {
         position: relative;
-        left: 120px;
+        left: 102px;
         bottom: 204px;
         margin-bottom: 30px;
     }
 
     #Rock {
         position: relative;
-        left: 120px;
+        left: 102px;
         bottom: 273px;
         margin-bottom: 30px;
     }
@@ -364,31 +362,31 @@ header {
     #HangmanOverlay {
         position: relative;
         bottom: 114px;
-        left: 119px;
+        left: 102px;
     }
     
     #TriviaOverlay {
         position: relative;
         bottom: 496px;
-        left: 120px;
+        left: 102px;
     }
     
     #RockOverlay {
         position: relative;
         bottom: 876px;
-        left: 120px;
+        left: 102px;
     }
     
     #RPGOverlay {
         position: relative;
         bottom: -291px;
-        left: 120px;
+        left: 102px;
     }
     
     #RutgersOverlay {
         position: relative;
         bottom: 86px;
-        left: 120px;
+        left: 102px;
     }    
 
 }
