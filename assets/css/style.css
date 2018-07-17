@@ -281,6 +281,50 @@ button {
         height: 1324px;
     }
 
+/* Increase header */
+
+header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    padding-bottom: 82px;
+    z-index: 1;
+}
+
+/* Decrease title */
+
+#Title {
+    position: fixed;
+    top: 0%;
+    display: block;
+    font-size: 30px;
+    width: 102%;
+    background-color: #4aaaa5;
+    text-align: center;
+    margin-top: -6px;
+    margin-bottom: 5px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+/* Insert horizontal navbar for links */
+
+.Links {
+    position: absolute;
+    left: 0%;
+    text-align: center;
+    padding-top: 1.5%;
+    padding-left: 34%;
+    display: block;
+    background-color: white;
+    width: 100%;
+}
+
 /* Repositioning Images */
 
     #Hangman {
